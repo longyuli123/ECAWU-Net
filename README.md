@@ -7,7 +7,6 @@ ECAWU-Net is designed for fine-grained retinal vessel and optic disc segmentatio
 - **SSA-CAW**: a multidimensional attention module that enhances spatial, cross-channel, and within-channel feature interactions.
 - **EET**: an Edge-Enhanced Transformer encoder that introduces bidirectional interaction between semantic tokens and edge-sensitive features.
 - **RST**: a Random Shuffle Tactic that performs reversible block-wise spatial perturbation during training and restores token/skip-feature alignment before decoding.
-- **Edge supervision**: an auxiliary edge prediction branch is used to improve boundary localization.
 
 
 
